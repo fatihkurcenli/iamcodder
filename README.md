@@ -1,6 +1,6 @@
 <img src='https://user-images.githubusercontent.com/25854605/87244476-65080280-c446-11ea-8b2a-958d50b07950.gif' width=800/>
 
-### Hey World 👋🏽, im Süleyman!!
+### Hey World 👋🏽, I'm Süleyman!!
 I'm student on Computer Engineering in Firat University (3rd)
 - 👨🏽‍💻 I’m currently working on **[Native Android](https://github.com/android "ANDROID")**
 - 🌱 I’m currently learning **[Deep Kotlin](https://kotlinlang.org/ "Deep Kotlin")**
